@@ -1,6 +1,6 @@
-A tool to get ip of target
+tool to get ip of target
 
-It should be , the ip and port of server1 are equal ip and port of server2
+It should be , the ip and port of server1 are equal to ip and port of server2
 
 also in server2 it should change into the script
 
